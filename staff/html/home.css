@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px 100px;
+    background-color: white;
+    box-shadow:1px 1px 6px;
+    text-decoration: none;
+}
+.header .link a{
+    justify-content: space-between;
+    text-decoration: none;
+}

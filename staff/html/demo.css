@@ -1,0 +1,16 @@
+body{
+   border-bottom: 1px solid #000;
+}
+*{
+    margin-top: 0;
+    padding: 0;
+    background:linear-gradient(to bottom ,rgb(140, 242, 232),rgb(117, 239, 229)) ;
+    background-repeat:no-repeat ;
+    align-items: center;
+    padding-top: 10px;
+    background-color: rgb(237, 175, 6);
+    text-decoration: double;
+    border: 1px solid;
+    font-weight: bolder;
+    align-content: center;
+}

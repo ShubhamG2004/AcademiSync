@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contact{
+    background:linear-gradient(to right, rgb(29, 179, 229),rgb(252, 252, 252));
+    height: 35px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
+.header .logo img{
+    width:70%;
+}
+.heading{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.head1{
+    font-size:36px;
+    color: red;
+    text-decoration: underline;
+}
+marquee{
+    background: linear-gradient(to left, rgb(11, 212, 234),rgb(197, 230, 230));
+    height:35px;
+    color:white;
+}
+.nav {
+    width: 100%;
+    height: auto;
+    background-color: #ffffff;
+    /* background: linear-gradient(to right, orange, orange); */
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    font-size: 20px;
+    padding: 10px 20px;
+    position: relative; /* Add this line to enable positioning of the sub-ul */
+}
+
+ul li a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    
+}
+
+ul li .sub-ul {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ca7c14;
+    padding: 10px;
+    z-index: 1;
+    top: 100%;
+    left: 0;
+}
+
+ul li:hover .sub-ul {
+    display: block;
+}
+/* Hamburger icon styles */
+.hamburger {
+    display: none;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.hamburger .icon {
+    display: block;
+    width: 25px;
+    height: 15px;
+    background-color: #000;
+    margin: 3px;
+}
+
+.hamburger .text {
+    display: block;
+    margin-top: 5px; /* Add margin to separate the icon and text vertically */
+}
+nav button{
+    width: 90%;
+}
+
+@media screen and (max-width: 768px) {
+    .nav .menu {
+        display: none;
+        flex-direction: column;
+    }
+
+    .nav .menu li {
+        text-align: center;
+    }
+
+    .nav .menu li.has-sub .sub-ul {
+        position: static;
+        display: none;
+    }
+
+    .nav .menu li.has-sub:hover .sub-ul {
+        display: block;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .menu.active {
+        display: flex;
+    }
+}
