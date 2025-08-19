@@ -28,10 +28,14 @@ This project was developed as a **Final Year Project (2022-23)** at *Government 
 - 👩‍🏫 **Staff Module**
   - Enter student attendance.
   - Upload and update marks.
+  - Upload Vision & Mission
+  - Upload Acdemmic Calender
+  - Upload Time Table
+  - Upload Teaching Plan
+  - Upload Plactical Plan
+  - Upload Practical Marks
+  - Upload Practical Assignment
 
-- 🎓 **Student Module**
-  - View attendance records.
-  - View marks securely.
 
 ---
 
