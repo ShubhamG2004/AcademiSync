@@ -90,6 +90,29 @@ This project was developed as a **Final Year Project (2022-23)** at *Government 
 <img width="751" height="419" alt="dfd1" src="https://github.com/user-attachments/assets/74de26b4-8f76-48ab-9cb1-f9eb6ee530a9" />
 
 ---
+## 📷 Project Screenshots
+
+
+### Login Page
+
+### Admin Dashboard
+<img width="1366" height="737" alt="Admin1" src="https://github.com/user-attachments/assets/a1d1f756-c46a-4309-875a-de4ab69df86d" />
+
+<img width="1366" height="875" alt="Admin2" src="https://github.com/user-attachments/assets/eecdedfe-dc64-4289-8412-b7d43a13c7be" />
+
+### Staff 
+<img width="1364" height="661" alt="image" src="https://github.com/user-attachments/assets/2ec4e46f-c925-4cc3-a9c6-15de1cd8725a" />
+
+### Attendance 
+![Attendance](https://github.com/user-attachments/assets/1ad6d431-b9b1-4319-9ae0-bcbd1cc0b638)
+
+### Marks
+![Marks](https://github.com/user-attachments/assets/358ad2e6-1f3e-4a7f-bebf-38db06418d81)
+
+
+
+
+---
 
 ## Future Scope
 - Implement as an **intranet-based application**.  
