@@ -256,7 +256,7 @@
                       <div class="dropdown-divider"></div>
                     </li>
                     <li>
-                    <a class="dropdown-item" href="../../index.php">
+                    <a class="dropdown-item" href="../../index.html">
                         <i class="bx bx-power-off me-2"></i>
                         <span class="align-middle"><Button type="submit" name="logout">Log Out</Button></span>
                     </a>

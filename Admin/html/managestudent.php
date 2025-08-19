@@ -3,14 +3,14 @@ include("header.php");
 ?>
 <div class="container">
     <style>
-        /* Main Container Styles */
+        
         .container {
             max-width: 1200px;
             margin: 30px auto;
             padding: 20px;
         }
 
-        /* Form Styles */
+      
         .form-container {
             background-color: #ffffff;
             border-radius: 8px;
@@ -265,6 +265,7 @@ include("header.php");
                         <tr>
                             <th>Roll No</th>
                             <th>Student Name</th>
+                            <th>Subject</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -279,6 +280,7 @@ include("header.php");
                             echo "<tr>";
                             echo "<td>" . $row['rollno'] . "</td>";
                             echo "<td>" . $row['name'] . "</td>";
+                            echo "<td>" . $row['subject'] . "</td>";
                             echo "</tr>";
                         }
                         mysqli_close($con);
