@@ -1,6 +1,6 @@
 # 🎓 Student Academics Management System
 
-## 📌 Overview
+##  Overview
 The **Student Academics Management System** is a web-based application developed to simplify and digitize the management of **student attendance and marks** in schools, colleges, and institutes.  
 It eliminates the inefficiencies of manual record-keeping, provides secure storage of academic records, and generates accurate consolidated reports.
 
@@ -19,13 +19,13 @@ This project was developed as a **Final Year Project (2022-23)** at *Government 
 
 ---
 
-## ✨ Features
-- 📑 **Admin Module**
+## Features
+- **Admin Module**
   - Manage student records (attendance & marks).
   - Handle staff and student logins.
   - Edit/delete records.
 
-- 👩‍🏫 **Staff Module**
+- **Staff Module**
   - Enter student attendance.
   - Upload and update marks.
   - Upload Vision & Mission
@@ -39,7 +39,7 @@ This project was developed as a **Final Year Project (2022-23)** at *Government 
 
 ---
 
-## 🔍 System Analysis
+## System Analysis
 ### Existing System
 - Manual entry of attendance and marks.
 - Time-consuming and error-prone.
@@ -51,14 +51,7 @@ This project was developed as a **Final Year Project (2022-23)** at *Government 
 - Generates accurate reports efficiently.
 
 ---
-
-## 🖥️ System Requirements
-### Hardware
-- Laptop/Desktop with Intel i3/i5 processor  
-- Minimum 4GB RAM (6GB recommended)  
-- Adequate free disk space  
-
-### Software
+## Software
 - **Frontend**: HTML, CSS, Bootstrap  
 - **Backend**: PHP  
 - **Database**: MySQL  
@@ -66,7 +59,7 @@ This project was developed as a **Final Year Project (2022-23)** at *Government 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **PHP** – Backend development  
 - **MySQL** – Database management  
 - **HTML, CSS, Bootstrap** – UI/UX  
@@ -74,7 +67,7 @@ This project was developed as a **Final Year Project (2022-23)** at *Government 
 
 ---
 
-## 📜 SRS (Software Requirement Specification)
+## SRS (Software Requirement Specification)
 - **Functional Requirements**  
   - Example: Generate reports based on attendance and marks.  
 
@@ -89,22 +82,20 @@ This project was developed as a **Final Year Project (2022-23)** at *Government 
 
 ---
 
-## 📊 Diagrammatic Representation
-- **DFD Level 0**  
+## Diagrammatic Representation
+- **DFD Level 0**
+<img width="777" height="329" alt="dfd0" src="https://github.com/user-attachments/assets/b4e3513b-da76-4fdf-986e-9dc6a8914673" />
+
 - **DFD Level 1**
+<img width="751" height="419" alt="dfd1" src="https://github.com/user-attachments/assets/74de26b4-8f76-48ab-9cb1-f9eb6ee530a9" />
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 - Implement as an **intranet-based application**.  
 - **Barcode Reader-based attendance system**.  
 - **Photo-based login system** for enhanced security.  
 - **Automated student discontinuation** handling in records.  
-
----
-
-## 🙏 Acknowledgement
-We thank our project guide **Mrs. M. S. Arade** and all professors from the **Department of Information Technology, Government Polytechnic Kolhapur**, for their guidance and support throughout the project.
 
 ---
 
